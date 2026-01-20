@@ -28,15 +28,15 @@ These foundational thinking frameworks span multiple disciplines:
 | Skill | Description |
 |-------|-------------|
 | **Circle of Competence** | Understand your knowledge boundaries and avoid ventures into areas of ignorance. Useful for investment decisions, career development. |
-| **Falsification** |判断理论是否科学的标准在于它能被设计试验来证明为假。强调主动寻找反例而非支持证据。 |
-| **Hanlon's Razor** | "不要用恶意来解释那些可以用愚蠢解释的行为"。提醒我们避免过度偏执，客观分析他人行为的原因。 |
-| **Inversion** | 从相反方向思考问题，先找出要避免的错误，再反推出应采取的正确行动。适用于投资决策、项目规划、风险管理等场景。 |
-| **Map Is Not the Territory** | 任何模型、理论或描述都只是对现实的简化，不等同于现实本身。提醒我们对模型和指标保持谦逊。 |
-| **Mr. Market** | 本杰明·格雷厄姆创造的拟人化角色，指代金融市场的情绪波动。投资者应利用而非跟随市场情绪。 |
-| **Occam's Razor** | "如无必要，勿增实体"。在解释现象时，倾向于选择假设更少、更简单的解释。 |
-| **Probabilistic Thinking** | 用概率而非确定性来思考问题。帮助我们更清醒地认识风险与机会。 |
-| **Second-Order Thinking** | 不仅考虑直接结果，还要考虑更深层的间接后果。任何行动都有"一阶效应"和随之而来的"二阶、三阶效应"。 |
-| **Thought Experiment** | 在头脑中进行假想试验，以逻辑推演问题的一种方法。适用于科学研究、哲学讨论、战略制定等场景。 |
+| **Falsification** | A theory is scientific only if it can be proven false. Emphasize actively seeking counterexamples rather than supporting evidence. |
+| **Hanlon's Razor** | "Never attribute to malice that which is adequately explained by stupidity." Avoid paranoia and analyze others' actions objectively. |
+| **Inversion** | Think backwards from the outcome. Identify what would cause failure first, then work backwards to find the right course of action. |
+| **Map Is Not the Territory** | Any model, theory, or description is a simplification of reality, not reality itself. Stay humble about models and metrics. |
+| **Mr. Market** | A personified character created by Benjamin Graham representing market sentiment. Investors should use rather than follow market emotions. |
+| **Occam's Razor** | "Entities should not be multiplied without necessity." Prefer simpler explanations with fewer assumptions. |
+| **Probabilistic Thinking** | Think in terms of probabilities rather than certainties. Helps us understand risk and opportunity more clearly. |
+| **Second-Order Thinking** | Consider not just direct results but also deeper indirect consequences. Every action has first-order and second/third-order effects. |
+| **Thought Experiment** | Conduct hypothetical experiments in the mind to reason through problems. Useful when actual trial and error is too costly. |
 
 ## Usage
 
