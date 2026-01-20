@@ -1,77 +1,77 @@
 ---
 name: Probabilistic Thinking
-description: 用概率而非确定性来思考问题的模式。现实世界充满不确定性，大多数事件有一定几率发生而非必然，概率思维帮助我们更清醒地认识风险与机会，适用于风险管理、决策分析、统计推断等场景。
+description: A pattern of thinking in terms of probabilities rather than certainties. The real world is full of uncertainty; most events have a certain probability of occurring rather than being inevitable. Probabilistic thinking helps us more clearly understand risks and opportunities. Applicable to risk management, decision analysis, and statistical inference scenarios.
 ---
 
 # 概率思维 (Probabilistic Thinking)
 
 ## Overview
 
-概率思维是用概率而非确定性来思考问题的模式。现实世界充满不确定性，大多数事件不是必然发生就是必然不发生，而是有一定几率发生。概率思维要求我们为各种可能性赋予概率权重，并根据概率和收益评估决策。
+Probabilistic thinking is a pattern of thinking in terms of probabilities rather than certainties. The real world is full of uncertainty; most events are not inevitable or impossible, but have a certain probability of occurring. Probabilistic thinking requires us to assign probability weights to various possibilities and evaluate decisions based on probability and expected value.
 
 ## When to Apply
 
-- 决策分析需要权衡多种可能性时
-- 风险管理中评估风险大小时
-- 投资决策中评估机会与风险时
-- 医疗诊断中考虑各种病因概率时
-- 任何存在不确定性的场景
+- When decision analysis needs to weigh multiple possibilities
+- When evaluating risk magnitude in risk management
+- When evaluating opportunities and risks in investment decisions
+- When considering various cause probabilities in medical diagnosis
+- Any scenario with uncertainty
 
 ## How to Use
 
-1. **识别不确定性**：承认未来是不确定的
-2. **列出可能性**：考虑所有可能的结果
-3. **估计概率**：为每个结果分配概率（即使主观）
-4. **评估影响**：考虑每个结果的严重程度
-5. **计算期望值**：综合概率和影响做出决策
+1. **Identify uncertainty**: Acknowledge that the future is uncertain
+2. **List possibilities**: Consider all possible outcomes
+3. **Estimate probabilities**: Assign probabilities to each outcome (even if subjective)
+4. **Evaluate impact**: Consider the severity of each outcome
+5. **Calculate expected value**: Synthesize probability and impact to make decisions
 
 ## Examples
 
-### 示例1：医疗诊断
-- 场景：患者发烧、咳嗽
-- 可能性：普通感冒（60%）、流感（25%）、肺炎（10%）、其他（5%）
-- 行动：先按最可能的原因治疗，同时安排检查排除严重情况
+### Example 1: Medical Diagnosis
+- Scenario: Patient has fever and cough
+- Possibilities: Common cold (60%), flu (25%), pneumonia (10%), other (5%)
+- Action: Treat according to the most likely cause first, while arranging tests to rule out serious conditions
 
-### 示例2：投资决策
-- 场景：考虑投资一家公司
-- 可能性分析：
-  - 成功概率60%，回报3倍
-  - 失败概率40%，损失全部投资
-- 期望值：0.6 × 3 + 0.4 × (-1) = 1.4（正值，值得考虑）
+### Example 2: Investment Decision
+- Scenario: Considering investing in a company
+- Possibility analysis:
+  - 60% probability of success, 3x return
+  - 40% probability of failure, loss of entire investment
+- Expected value: 0.6 × 3 + 0.4 × (-1) = 1.4 (positive, worth considering)
 
-### 示例3：天气预报
-- 场景：天气预报显示"降雨概率30%"
-- 正确理解：30%概率下雨，70%概率不下雨
-- 行动决策：带伞但不必取消户外活动
+### Example 3: Weather Forecast
+- Scenario: Weather forecast shows "30% chance of rain"
+- Correct understanding: 30% probability of rain, 70% probability of no rain
+- Action decision: Bring an umbrella but don't cancel outdoor activities
 
-### 示例4：创业vs打工
-- 创业：成功概率20%，成功时收入是打工5倍；失败概率80%
-- 打工：稳定收入，假设为1
-- 期望值：0.2 × 5 + 0.8 × 1 = 1.8（创业期望值更高）
+### Example 4: Entrepreneurship vs. Employment
+- Entrepreneurship: 20% probability of success, 5x income when successful; 80% probability of failure
+- Employment: Stable income, assumed as 1
+- Expected value: 0.2 × 5 + 0.8 × 1 = 1.8 (entrepreneurship has higher expected value)
 
 ## Core Principles
 
-- **告别确定性**：接受"不知道"是常态
-- **概率而非绝对**：用概率区间而非精确数字思考
-- **期望值思维**：综合考虑概率和影响
-- **贝叶斯更新**：根据新证据不断修正概率
+- **告别确定性**: Accept "not knowing" as normal
+- **Probabilities rather than absolutes**: Think in probability ranges rather than precise numbers
+- **Expected value thinking**: Synthesize probability and impact
+- **Bayesian updating**: Continuously修正 probabilities based on new evidence
 
 ## Common Mistakes
 
-- **非黑即白思维**：只考虑"会"或"不会"，忽略中间状态
-- **确定性幻觉**：对未来做出过于确定的预测
-- **忽视小概率事件**：低估低概率高影响事件的风险
-- **小数法则**：用小样本得出确定结论
+- **Black-and-white thinking**: Only considering "will" or "won't," ignoring intermediate states
+- **Certainty illusion**: Making overly certain predictions about the futureoring low-prob
+- **Ignability events**: Underestimating risks of low-probability, high-impact events
+- **Law of small numbers**: Drawing certain conclusions from small samples
 
 ## Benefits
 
-- 更清醒地认识风险与机会
-- 避免过度自信或过度恐惧
-- 提升期望值决策能力
-- 更好地进行风险回报权衡
+- Clearer understanding of risks and opportunities
+- Avoid overconfidence or excessive fear
+- Improve expected value decision-making ability
+- Better risk-reward trade-offs
 
 ## Related Models
 
-- [贝叶斯更新](/skills/bayesian-updating/)：根据证据动态修正概率
-- [大数定律](/skills/law-of-large-numbers/)：样本量对概率估计的影响
-- [均值回归](/skills/regression-to-the-mean/)：极端表现会回归常态
+- [Bayesian Updating](/skills/bayesian-updating/): Dynamically adjusting probabilities based on evidence
+- [Law of Large Numbers](/skills/law-of-large-numbers/): Impact of sample size on probability estimation
+- [Regression to the Mean](/skills/regression-to-the-mean/): Extreme performance returns to average

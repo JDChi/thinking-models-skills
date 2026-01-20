@@ -1,62 +1,62 @@
 ---
 name: Falsification
-description: 判断理论是否科学的标准在于它能被设计试验来证明为假。强调主动寻找反例而非支持证据，适用于科学研究、商业决策、假设验证等场景。
+description: The criterion for determining whether a theory is scientific lies in its ability to be tested and proven false through designed experiments. Emphasizes actively seeking counterexamples rather than supporting evidence. Applicable to scientific research, business decisions, hypothesis validation, and other scenarios.
 ---
 
 # 证伪原则 (Falsification)
 
 ## Overview
 
-证伪原则由哲学家卡尔·波普尔提出，核心观点是：科学的命题必须能够被某种结果否定，否则就不是真正的科学。与其寻找支持证据，不如主动寻找反例来测试观点的有效性。
+The falsification principle was proposed by philosopher Karl Popper, with the core idea that scientific propositions must be able to be negated by some result, otherwise they are not truly science. Instead of seeking supporting evidence, actively seek counterexamples to test the validity of your views.
 
 ## When to Apply
 
-- 评估某个理论或假设的有效性时
-- 科学研究或数据分析中需要验证假设时
-- 商业决策中需要检验投资逻辑时
-- 建立或评估预测模型时
-- 识别伪科学或伪知识时
+- Evaluating the validity of a theory or hypothesis
+- Validating hypotheses in scientific research or data analysis
+- Testing investment logic in business decisions
+- Building or evaluating predictive models
+- Identifying pseudoscience or pseudo-knowledge
 
 ## How to Use
 
-1. **明确假设**：清晰陈述你要验证的命题
-2. **设计测试**：思考什么证据可以推翻这个假设
-3. **主动寻找**：不是等待反例，而是主动设计检验
-4. **接受结果**：如果反例出现，勇于放弃原有假设
-5. **迭代修正**：根据新证据不断更新认知
+1. **Clarify the hypothesis**: Clearly state the proposition you want to test
+2. **Design tests**: Consider what evidence could overturn this hypothesis
+3. **Seek actively**: Don't wait for counterexamples; actively design tests
+4. **Accept results**: If counterexamples appear, have the courage to abandon the original hypothesis
+5. **Iterate and修正**: Continuously update your understanding based on new evidence
 
 ## Examples
 
-### 示例1：药物试验
-- 假设：新药比安慰剂更有效
-- 证伪方法：设计对照组，比较新药组与安慰剂组的效果
-- 如果新药效果不比安慰剂好 → 假设被推翻
+### Example 1: Drug Trials
+- Hypothesis: New drug is more effective than placebo
+- Falsification method: Design a control group and compare outcomes between the new drug group and placebo group
+- If new drug is no better than placebo → hypothesis overturned
 
-### 示例2：投资策略
-- 假设：某策略在任何市场都能赚钱
-- 证伪方法：寻找历史阶段中策略失效的案例
-- 如果在某段熊市策略大幅亏损 → 假设被推翻
+### Example 2: Investment Strategy
+- Hypothesis: A certain strategy can make money in any market
+- Falsification method: Find historical periods where the strategy failed
+- If the strategy suffers large losses during a bear market → hypothesis overturned
 
-### 示例3：商业模式
-- 假设：用户愿意为X功能付费
-- 证伪方法：进行A/B测试，观察用户实际付费转化率
-- 如果转化率极低 → 假设需要修正
+### Example 3: Business Model
+- Hypothesis: Users are willing to pay for feature X
+- Falsification method: Conduct A/B testing to observe actual user payment conversion rates
+- If conversion rate is extremely low → hypothesis needs revision
 
 ## Core Principles
 
-- **谦卑求真**：承认自己的假设可能是错的
-- **主动检验**：不等待反例，主动设计检验
-- **可证伪性**：好的假设必须有可能被推翻
-- **及时修正**：发现错误时勇于调整
+- **Humble pursuit of truth**: Acknowledge that your hypothesis may be wrong
+- **Active testing**: Don't wait for counterexamples; actively design tests
+- **Falsifiability**: Good hypotheses must have the potential to be overturned
+- **Timely revision**: Have the courage to adjust when errors are found
 
 ## Common Mistakes
 
-- **确认偏误**：只寻找支持自己观点的证据
-- **过度自信**：认为自己的假设一定正确
-- **忽视反例**：对反例视而不见或找借口解释
+- **Confirmation bias**: Only seeking evidence that supports your view
+- **Overconfidence**: Believing your hypothesis must be correct
+- **Ignoring counterexamples**: Turning a blind sight to counterexamples or making excuses
 
 ## Related Models
 
-- [反向思考](/skills/inversion/)：从失败角度思考问题
-- [概率思维](/skills/probabilistic-thinking/)：用概率而非确定性思考
-- [贝叶斯更新](/skills/bayesian-updating/)：根据证据动态修正信念
+- [Inversion](/skills/inversion/): Thinking about problems from the failure perspective
+- [Probabilistic Thinking](/skills/probabilistic-thinking/): Thinking in probabilities rather than certainties
+- [Bayesian Updating](/skills/bayesian-updating/): Dynamically adjusting beliefs based on evidence

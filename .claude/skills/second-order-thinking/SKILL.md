@@ -1,73 +1,73 @@
 ---
 name: Second-Order Thinking
-description: 不仅考虑直接结果，还要考虑更深层的间接后果。任何行动都有"一阶效应"和随之而来的"二阶、三阶效应"，适用于政策制定、企业战略、投资决策等场景。
+description: Not only considering direct results, but also deeper indirect consequences. Every action has "first-order effects" and随之而来的"second and third-order effects." Applicable to policy-making, corporate strategy, investment decisions, and other scenarios.
 ---
 
 # 二阶思维 (Second-Order Thinking)
 
 ## Overview
 
-二阶思维要求我们跳出眼前的直接影响，去预判后续连锁反应。任何行动都有"一阶效应"（直接结果）和"二阶效应"（后续影响）。芒格指出，在人类系统和复杂系统中，第二层效应往往比第一层效应更为庞大，但人们经常忽视它。
+Second-order thinking requires us to look beyond immediate direct impacts to anticipate subsequent chain reactions. Every action has "first-order effects" (direct results) and "second-order effects" (subsequent impacts). As Munger points out, in human systems and complex systems, second-level effects are often more significant than first-level effects, but people often overlook them.
 
 ## When to Apply
 
-- 政策制定时评估长期影响
-- 企业战略规划时考虑后续效应
-- 投资决策时分析市场反应
-- 项目启动时预估连锁影响
-- 个人重大决策时思考长远后果
+- Evaluating long-term impacts when making policies
+- Considering subsequent effects when planning corporate strategy
+- Analyzing market reactions when making investment decisions
+- Estimating chain effects when starting projects
+- Thinking about long-term consequences when making major personal decisions
 
 ## How to Use
 
-1. **识别一阶效应**：明确行动的直接结果
-2. **追问"然后呢"**：对每个直接结果问"这会导致什么"
-3. **追踪连锁反应**：继续追问更深层的影响
-4. **评估整体影响**：综合考虑所有层次的效应
-5. **调整决策**：根据二阶分析结果优化方案
+1. **Identify first-order effects**: Clarify the direct results of an action
+2. **Ask "then what"**: For each direct result, ask "what will this cause"
+3. **Trace chain reactions**: Continue asking about deeper impacts
+4. **Evaluate overall impact**: Synthesize effects at all levels
+5. **Adjust decisions**: Optimize plans based on second-order analysis results
 
 ## Examples
 
-### 示例1：房租管控
-- 一阶效应：租金下降，租客负担降低
-- 二阶效应：房东利润减少 → 减少供给、新房投资减少
-- 三阶效应：租房市场短缺，租客长期更难找到房子
-- 结论：看似惠民的政策可能适得其反
+### Example 1: Rent Control
+- First-order effect: Rent decreases, tenant burden reduced
+- Second-order effect: Landlord profits decrease → reduced supply, less new housing investment
+- Third-order effect: Rental market shortage, tenants have harder time finding housing long-term
+- Conclusion: Policies that seem beneficial to residents may have the opposite effect
 
-### 示例2：价格战
-- 一阶效应：降价 → 短期销量提升
-- 二阶效应：品牌价值受损、利润率下降
-- 三阶效应：竞争对手跟进降价 → 行业利润萎缩
-- 结论：短期收益可能换来长期困境
+### Example 2: Price War
+- First-order effect: Price reduction → short-term sales increase
+- Second-order effect: Brand value damaged, profit margins decline
+- Third-order effect: Competitors follow with price reductions → industry profit shrinkage
+- Conclusion: Short-term gains may换来 long-term difficulties
 
-### 示例3：游行踮脚
-- 一阶效应：前排的人踮脚 → 看得更清楚
-- 二阶效应：后面的人也被迫踮脚
-- 三阶效应：所有人都踮脚 → 没人看得更好，大家都累
-- 结论：个体理性导致集体非理性
+### Example 3: Standing on Tiptoes at a Concert
+- First-row people tiptoe → can see better
+- Second-order effect: People behind are forced to tiptoe
+- Third-order effect: Everyone tiptoeing → no one sees better, everyone is tired
+- Conclusion: Individual rationality leads to collective irrationality
 
 ## Core Principles
 
-- **超越表面**：不要满足于直接结果
-- **连锁思考**：考虑影响的传递路径
-- **长期视角**：重视时间跨度较长的影响
-- **系统思维**：理解复杂系统的相互关联
+- **Go beyond the surface**: Don't be satisfied with direct results
+- **Chain thinking**: Consider the transmission path of impacts
+- **Long-term perspective**: Value impacts with longer time horizons
+- **Systems thinking**: Understand the interconnectedness of complex systems
 
 ## Common Pitfalls
 
-- 只看短期收益忽视长期成本
-- 高估自己预测复杂系统的能力
-- 假设他人会做出理性反应
-- 忽视非预期后果
+- Only looking at short-term gains while ignoring long-term costs
+- Overestimating ability to predict complex systems
+- Assuming others will react rationally
+- Ignoring unintended consequences
 
 ## Benefits
 
-- 避免"聪明反被聪明误"
-- 做出更稳健的决策
-- 识别潜在的系统性风险
-- 发现被忽视的机会
+- Avoid "being too clever for one's own good"
+- Make more robust decisions
+- Identify potential systemic risks
+- Discover overlooked opportunities
 
 ## Related Models
 
-- [反馈回路](/skills/feedback-loop/)：理解循环因果关系
-- [公地悲剧](/skills/tragedy-of-the-commons/)：个体理性导致集体非理性
-- [因果链](/skills/causation-chain/)：追踪原因传导路径
+- [Feedback Loop](/skills/feedback-loop/): Understanding cyclical causal relationships
+- [Tragedy of the Commons](/skills/tragedy-of-the-commons/): Individual rationality leads to collective irrationality
+- [Causation Chain](/skills/causation-chain/): Tracing the transmission path of causes

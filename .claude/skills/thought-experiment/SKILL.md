@@ -1,76 +1,76 @@
 ---
 name: Thought Experiment
-description: 在头脑中进行假想试验，以逻辑推演问题的一种方法。适用于科学研究、哲学讨论、战略制定等场景，特别是在实际试错代价高昂或不可行时。
+description: A method of conducting hypothetical experiments in the mind to logically deduce answers to problems. Applicable to scientific research, philosophical discussions, and strategic planning, especially when actual trial and error is too costly or impractical.
 ---
 
 # 思想实验 (Thought Experiment)
 
 ## Overview
 
-思想实验是在头脑中进行假想试验，以逻辑推演问题的一种技巧。这一技巧为爱因斯坦等科学家所青睐，他们通过在脑海中构建场景来探索物理规律，而无需实际实验。思想实验使我们能够突破现实条件的限制来检验想法。
+A thought experiment is a technique of conducting hypothetical experiments in the mind to logically deduce answers to problems. This technique was favored by scientists like Einstein, who explored physical laws by constructing scenarios in their minds without actual experiments. Thought experiments allow us to break through the limitations of reality to test ideas.
 
 ## When to Apply
 
-- 科学研究中探索理论边界时
-- 哲学讨论中厘清概念时
-- 战略规划中预演不同情境时
-- 安全演习中模拟灾难情境时
-- 个人决策中评估不同路径时
-- 实际试错代价高昂或不可行时
+- Exploring theoretical boundaries in scientific research
+- Clarifying concepts in philosophical discussions
+- Playing out different scenarios in strategic planning
+- Simulating disaster scenarios in safety drills
+- Evaluating different paths in personal decision-making
+- When actual trial and error is too costly or impractical
 
 ## How to Use
 
-1. **明确问题**：确定你要探索的核心问题
-2. **构建场景**：设计一个假想的情境
-3. **设定条件**：明确情境中的假设和边界
-4. **逻辑推演**：按照逻辑规则推导结果
-5. **反思收获**：总结思想实验带来的洞见
+1. **Clarify the problem**: Determine the core question you want to explore
+2. **Construct a scenario**: Design a hypothetical situation
+3. **Set conditions**: Clarify the assumptions and boundaries in the scenario
+4. **Logically deduce**: Derive results according to logical rules
+5. **Reflect on insights**: Summarize the insights gained from the thought experiment
 
 ## Examples
 
-### 示例1：爱因斯坦的光束追逐
-- 问题：以光速追逐一束光，会看到什么？
-- 推演：如果能追上光束，光应该是静止的，但这与麦克斯韦方程矛盾
-- 结果：启发狭义相对论的建立
+### Example 1: Einstein's Light Beam Chase
+- Question: What would you see if you chased a beam of light at the speed of light?
+- Deduction: If you could catch up to the light beam, the light should be stationary, but this contradicts Maxwell's equations
+- Result: Inspired the establishment of special relativity
 
-### 示例2：电车难题（伦理学）
-- 问题：改变轨道牺牲1人救5人，还是保持原轨道？
-- 推演：探讨功利主义与道德义务的冲突
-- 结果：深化对道德决策的理解
+### Example 2: Trolley Problem (Ethics)
+- Question: Divert the track to sacrifice 1 person to save 5, or stay on the original track?
+- Deduction: Exploring the conflict between utilitarianism and moral obligations
+- Result: Deepened understanding of moral decision-making
 
-### 示例3：情景规划（商业）
-- 问题：如果主要竞争对手大幅降价，我们会怎样？
-- 推演：分析各种应对策略的利弊
-- 结果：提前准备应对方案
+### Example 3: Scenario Planning (Business)
+- Question: What would happen if major competitors significantly lowered prices?
+- Deduction: Analyzing the pros and cons of various response strategies
+- Result: Prepare response plans in advance
 
-### 示例4：职业选择
-- 问题：如果选择A职业，5年后会怎样？
-- 推演：分析发展路径、收入曲线、生活方式
-- 结果：更清晰地做出选择
+### Example 4: Career Choice
+- Question: What would happen 5 years after choosing Career A?
+- Deduction: Analyzing development paths, income curves, and lifestyle
+- Result: Make choices more clearly
 
 ## Famous Thought Experiments
 
-- **薛定谔的猫**：叠加态与测量问题
-- **缸中之脑**：虚拟现实与感知的本质
-- **中文房间**：理解与智能的定义
-- **电梯悖论**：相对论效应
+- **Schrodinger's Cat**: Superposition and measurement problems
+- **Brain in a Vat**: Virtual reality and the nature of perception
+- **Chinese Room**: Definitions of understanding and intelligence
+- **Elevator Paradox**: Relativity effects
 
 ## Core Principles
 
-- **突破限制**：不受现实条件约束
-- **逻辑优先**：严格遵循逻辑规则
-- **安全经济**：无需实际代价
-- **深度探索**：检验理论边界和假设
+- **Break through limitations**: Not bound by real-world conditions
+- **Logic first**: Strictly follow logical rules
+- **Safe and economical**: No actual costs
+- **Deep exploration**: Test theoretical boundaries and assumptions
 
 ## Benefits
 
-- 探索极端情况的可能性
-- 识别直觉的盲点
-- 在安全环境中试错
-- 深化对问题的理解
+- Explore possibilities of extreme situations
+- Identify blind spots in intuition
+- Make mistakes in a safe environment
+- Deepen understanding of problems
 
 ## Related Models
 
-- [反事实思考](/skills/counterfactual-thinking/)：假设不同情境下的结果
-- [二阶思维](/skills/second-order-thinking/)：考虑行动的深层后果
-- [概率思维](/skills/probabilistic-thinking/)：评估各种可能性
+- [Counterfactual Thinking](/skills/counterfactual-thinking/): Hypothesizing outcomes in different scenarios
+- [Second-Order Thinking](/skills/second-order-thinking/): Considering deeper consequences of actions
+- [Probabilistic Thinking](/skills/probabilistic-thinking/): Evaluating various possibilities

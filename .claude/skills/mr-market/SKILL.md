@@ -1,73 +1,73 @@
 ---
 name: Mr. Market
-description: 本杰明·格雷厄姆创造的拟人化角色，指代金融市场的情绪波动。市场有时狂热乐观，有时极度悲观，投资者应利用而非跟随市场情绪，适用于投资决策、资产管理等场景。
+description: A personified character created by Benjamin Graham to represent the emotional fluctuations of financial markets. The market is sometimes irrationally optimistic, sometimes extremely pessimistic, and investors should exploit rather than follow market sentiment. Applicable to investment decisions and asset management scenarios.
 ---
 
 # 市场先生 (Mr. Market)
 
 ## Overview
 
-"市场先生"是本杰明·格雷厄姆在其经典著作《聪明的投资者》中创造的拟人化角色。格雷厄姆把市场比作一个情绪多变的合作伙伴：有时狂热乐观，有时极度悲观。投资者的任务就是利用市场先生的情绪波动——低落时买入，高兴时卖出。
+"Mr. Market" is a personified character created by Benjamin Graham in his classic book "The Intelligent Investor." Graham compared the market to an emotionally volatile partner: sometimes irrationally optimistic, sometimes extremely pessimistic. The investor's task is to exploit the emotional fluctuations of Mr. Market — buying when he is pessimistic and selling when he is happy.
 
 ## When to Apply
 
-- 投资决策时评估市场情绪
-- 面对市场剧烈波动时
-- 需要逆向投资时
-- 评估资产定价合理性时
-- 制定买入卖出策略时
+- Evaluating market sentiment when making investment decisions
+- Facing extreme market volatility
+- Needing to invest countercyclically
+- Evaluating the reasonableness of asset pricing
+- Developing buy and sell strategies
 
 ## How to Use
 
-1. **识别市场情绪**：判断当前市场处于乐观还是悲观状态
-2. **利用情绪波动**：在恐慌时寻找被错杀的机会，在狂热时寻找高估的标的
-3. **保持独立判断**：不被市场情绪左右自己的决策
-4. **有选择地回应**：市场先生的报价只是参考，可以大部分时间不予理睬
-5. **长期视角**：忽略短期波动，关注内在价值
+1. **Identify market sentiment**: Determine whether the current market is in an optimistic or pessimistic state
+2. **Exploit emotional fluctuations**: Look for overlooked opportunities during panic and overvalued targets during euphoria
+3. **Maintain independent judgment**: Don't let market sentiment sway your decisions
+4. **Respond selectively**: Mr. Market's quotes are just references and can be ignored most of the time
+5. **Long-term perspective**: Ignore short-term fluctuations and focus on intrinsic value
 
 ## Examples
 
-### 示例1：互联网泡沫
-- 背景：2000年科技股狂热
-- 市场状态：极度乐观，不断抬高科技股价格
-- 应对：冷静的投资者认识到市场先生过于乐观，选择卖出或不参与
-- 结果：避免泡沫破灭时的巨大损失
+### Example 1: Internet Bubble
+- Background: 2000 tech stock euphoria
+- Market state: Extremely optimistic, continuously pushing tech stock prices higher
+- Response: Discerning investors recognized Mr. Market was too optimistic and chose to sell or not participate
+- Result: Avoiding massive losses when the bubble burst
 
-### 示例2：2020年疫情初期
-- 背景：疫情导致市场恐慌性暴跌
-- 市场状态：极度悲观，优质公司股票被错杀
-- 应对：逆向投资者把握机会逢低买入
-- 结果：市场情绪恢复后获得丰厚回报
+### Example 2: Early 2020 Pandemic
+- Background: Market panic crash due to pandemic
+- Market state: Extremely pessimistic, quality company stocks were oversold
+- Response: Countercyclical investors seized the opportunity to buy at lows
+- Result: Gained substantial returns when market sentiment recovered
 
-### 示例3：日常波动
-- 背景：某天市场因新闻大涨或大跌
-- 市场状态：短期情绪波动
-- 应对：区分短期噪音与长期价值变化
-- 结果：避免因短期情绪做出错误决策
+### Example 3: Daily Fluctuations
+- Background: Market rises or falls sharply on a given day due to news
+- Market state: Short-term emotional fluctuations
+- Response: Distinguish between short-term noise and long-term value changes
+- Result: Avoid making wrong decisions due to short-term emotions
 
 ## Core Principles
 
-- **市场非理性**：短期价格由情绪驱动，而非基本面
-- **利用而非跟随**：在极端情绪时采取相反行动
-- **独立判断**：有自己的估值标准和决策框架
-- **耐心等待**：好的机会需要等待市场犯错
+- **Market irrationality**: Short-term prices are driven by sentiment, not fundamentals
+- **Exploit rather than follow**: Take opposite action during extreme sentiment
+- **Independent judgment**: Have your own valuation standards and decision framework
+- **Patience**: Good opportunities require waiting for the market to make mistakes
 
 ## Warning Signs
 
-- 群体性亢奋或恐慌时
-- 新闻标题充满情绪化词汇时
-- 人人都在讨论股票时
-- 无人谈论市场时
+- When there is collective euphoria or panic
+- When news headlines are filled with emotional words
+- When everyone is talking about stocks
+- When no one is talking about the market
 
 ## Benefits
 
-- 避免在高点买入、低点卖出
-- 发现被市场错误定价的机会
-- 保持情绪稳定，做出理性决策
-- 逆向思维获取超额收益
+- Avoid buying at peaks and selling at troughs
+- Discover opportunities mispriced by the market
+- Maintain emotional stability and make rational decisions
+- Countercyclical thinking for excess returns
 
 ## Related Models
 
-- [概率思维](/skills/probabilistic-thinking/)：评估不确定性和风险
-- [安全边际](/skills/margin-of-safety/)：为判断错误预留空间
-- [逆向思考](/skills/inversion/)：从相反角度思考市场行为
+- [Probabilistic Thinking](/skills/probabilistic-thinking/): Evaluating uncertainty and risk
+- [Margin of Safety](/skills/margin-of-safety/): Leaving room for judgment errors
+- [Inversion](/skills/inversion/): Thinking about market behavior from opposite angles

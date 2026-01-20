@@ -1,66 +1,66 @@
 ---
 name: Occam's Razor
-description: "如无必要，勿增实体"。在解释现象时，倾向于选择假设更少、更简单的解释。适用于问题分析、理论选择、决策制定等场景。
+description: "Entities should not be multiplied beyond necessity." When explaining phenomena, prefer explanations with fewer and simpler assumptions. Applicable to problem analysis, theory selection, and decision-making scenarios.
 ---
 
 # 奥卡姆剃刀 (Occam's Razor)
 
 ## Overview
 
-奥卡姆剃刀是由14世纪逻辑学者威廉·奥卡姆提出的启发原则：在解释现象时，如无必要，不要增加实体。换句话说，简单且假设更少的解释往往更可靠。爱因斯坦也有句相关名言："一切应尽量简单，但不要过于简单"。
+Occam's Razor is a heuristic principle proposed by 14th-century logician William of Ockham: when explaining phenomena, do not multiply entities beyond necessity. In other words, simpler explanations with fewer assumptions are often more reliable. Einstein also had a related saying: "Everything should be made as simple as possible, but not simpler."
 
 ## When to Apply
 
-- 面对多个解释或理论时需要选择
-- 问题分析陷入过度复杂化时
-- 决策时需要在多个方案中取舍
-- 诊断问题原因时
-- 设计解决方案时
+- Needing to choose among multiple explanations or theories
+- When problem analysis becomes overly complicated
+- When making decisions among multiple options
+- When diagnosing the causes of problems
+- When designing solutions
 
 ## How to Use
 
-1. **列出可能的解释**：收集所有看似合理的假设
-2. **比较复杂度**：评估每个假设需要多少额外假设支持
-3. **优先简单**：在解释力相当的情况下，选择更简单的那个
-4. **验证有效**：简单解释也需要通过检验
-5. **警惕过度简化**：简单不等于准确
+1. **List possible explanations**: Collect all seemingly reasonable hypotheses
+2. **Compare complexity**: Evaluate how many additional assumptions each hypothesis requires to support
+3. **Prefer simplicity**: When explanatory power is comparable, choose the simpler one
+4. **Verify effectiveness**: Simple explanations also need to pass testing
+5. **Beware of oversimplification**: Simple does not mean accurate
 
 ## Examples
 
-### 示例1：医学诊断
-- 场景：患者发烧、咳嗽
-- 复杂解释：某种罕见的自身免疫疾病
-- 简单解释：普通流感或感冒
-- 选择：先考虑常见病，复杂解释需要更多证据支持
+### Example 1: Medical Diagnosis
+- Scenario: Patient has fever and cough
+- Complex explanation: Some rare autoimmune disease
+- Simple explanation: Common flu or cold
+- Choice: Consider common diseases first; complex explanations require more evidence
 
-### 示例2：企业成功分析
-- 场景：某公司业绩优异
-- 复杂解释：拥有隐秘的高深战略、独特的商业模式
-- 简单解释：专注做好核心产品、有效的执行力
-- 选择：如果简单解释足够，就不需要假设复杂因素
+### Example 2: Business Success Analysis
+- Scenario: A company has excellent performance
+- Complex explanation: Has a secret sophisticated strategy and unique business model
+- Simple explanation: Focuses on doing core products well and has effective execution
+- Choice: If simple explanation suffices, no need to assume complex factors
 
-### 示例3：投资分析
-- 场景：某股票价格上涨
-- 复杂解释：主力资金操纵、行业即将出台利好政策
-- 简单解释：公司业绩增长、市场情绪好转
-- 选择：先考虑简单原因，复杂原因需要更多证据
+### Example 3: Investment Analysis
+- Scenario: A stock price rises
+- Complex explanation: Main force manipulation, industry about to release favorable policies
+- Simple explanation: Company performance growth, improved market sentiment
+- Choice: Consider simple causes first; complex causes require more evidence
 
 ## Core Principles
 
-- **简单优先**：假设少 ≠ 假设错
-- **解释力相当**：当简单解释与复杂解释同样有效时，选择简单的
-- **需要验证**：简单不意味着不需要检验
-- **避免教条**：简单原则是启发式指引，不是绝对规则
+- **Prefer simplicity**: Fewer assumptions ≠ wrong assumptions
+- **Equal explanatory power**: When simple and complex explanations are equally effective, choose the simple one
+- **Requires verification**: Simple does not mean不需要 testing
+- **Avoid dogma**: Simple principle is a heuristic guide, not an absolute rule
 
 ## Limitations
 
-- 简单解释不一定正确
-- 现实世界有时确实是复杂的
-- 需要与领域知识结合使用
-- 不能为了简单而忽略重要因素
+- Simple explanations are not necessarily correct
+- The real world is sometimes genuinely complex
+- Need to be used in conjunction with domain knowledge
+- Cannot ignore important factors for the sake of simplicity
 
 ## Related Models
 
-- [地图非领土](/skills/map-is-not-the-territory/)：模型是简化而非现实
-- [思想实验](/skills/thought-experiment/)：通过思想推演验证假设
-- [证伪原则](/skills/falsification/)：用实验检验假设
+- [Map Is Not the Territory](/skills/map-is-not-the-territory/): Models are simplifications, not reality
+- [Thought Experiment](/skills/thought-experiment/): Validating hypotheses through thought experiments
+- [Falsification](/skills/falsification/): Testing hypotheses with experiments

@@ -1,63 +1,63 @@
 ---
 name: Circle of Competence
-description: 每个人在自己真正熟悉和擅长的领域内决策更有把握。强调认清能力边界，避免涉足自身无知的领域，适用于投资决策、职业发展等场景。
+description: Making decisions with greater confidence in areas you truly understand and excel at. Emphasizes recognizing ability boundaries and avoiding ventures into unfamiliar territory. Applicable to investment decisions, career development, and other scenarios.
 ---
 
 # 能力圈 (Circle of Competence)
 
 ## Overview
 
-能力圈是指个人真正熟悉和擅长的领域。在这个范围内决策更有把握，因为拥有足够的知识和经验来判断；圈外领域因知识欠缺而充满未知风险。沃伦·巴菲特和查理·芒格用这个概念提醒投资者专注于自己懂的行业。
+The circle of competence refers to areas where an individual is truly familiar and skilled. Decisions within this scope carry greater confidence because you possess sufficient knowledge and experience to judge; areas outside the circle carry unknown risks due to lack of knowledge. Warren Buffett and Charlie Munger use this concept to remind investors to focus on industries they understand.
 
 ## When to Apply
 
-- 投资决策时评估自己是否理解标的公司
-- 职业发展时选择深耕领域
-- 项目启动时评估团队能力匹配度
-- 创业时选择进入的市场
-- 日常决策时判断自己的判断可靠性
+- Evaluating whether you understand a target company when making investment decisions
+- Choosing areas for deep expertise in career development
+- Assessing team capability matching when starting projects
+- Selecting markets to enter when starting a business
+- Judging the reliability of your own judgment in daily decisions
 
 ## How to Use
 
-1. **画出自己的能力圈**：列出你真正精通的领域
-2. **识别边界**：明确知道"我不知道"的领域
-3. **谨慎对待圈外**：对圈外领域保持敬畏
-4. **扩展而非跳过**：通过学习扩展能力圈，而非盲目跨界
-5. **诚实地评估**：定期反思自己的能力边界
+1. **Map out your circle of competence**: List areas where you are truly proficient
+2. **Identify boundaries**: Clearly know the areas where "I don't know"
+3. **Exercise caution outside the circle**: Maintain respect for areas outside your expertise
+4. **Expand rather than skip**: Expand your circle through learning rather than blindly crossing boundaries
+5. **Honest assessment**: Regularly reflect on your ability boundaries
 
 ## Examples
 
-### 示例1：巴菲特的科技股投资
-- 巴菲特长期不投资高科技公司，因为他认为这些公司超出了他的能力圈
-- 在互联网泡沫时期，他因避开科技股而避免了大量损失
-- 后来通过投资苹果（他理解的消费品牌而非技术），逐步扩展了能力圈
+### Example 1: Buffett's Tech Stock Investment
+- Buffett has long avoided investing in tech companies because he believes they fall outside his circle of competence
+- During the internet bubble, he avoided massive losses by staying away from tech stocks
+- Later, he gradually expanded his circle by investing in Apple (which he understood as a consumer brand rather than technology)
 
-### 示例2：职业选择
-- 一个会计专业的人想转行做程序员
-- 能力圈建议：先评估自己是否愿意投入时间学习编程基础
-- 如果决定转型，应该先学习而非直接裸辞
+### Example 2: Career Choice
+- An accounting major wants to transition to programming
+- Circle of competence advice: First assess whether you're willing to invest time in learning programming fundamentals
+- If deciding to transition, learn first rather than quitting your job outright
 
-### 示例3：企业战略
-- 一家传统零售企业想进入电商领域
-- 能力圈分析：是否理解电商的流量逻辑、用户运营、技术架构？
-- 如果不理解，需要先学习或收购具备这些能力的团队
+### Example 3: Corporate Strategy
+- A traditional retail company wants to enter e-commerce
+- Circle of competence analysis: Do you understand e-commerce traffic logic, user operations, and technical architecture?
+- If not, learn first or acquire teams with these capabilities
 
 ## Core Principles
 
-- **自知之明**：了解自己知道什么、不知道什么
-- **专注优势**：在能力圈内深耕，而非遍地开花
-- **诚实评估**：避免"不知道自己不知道"的危险状态
-- **持续学习**：能力圈可以通过学习扩展
+- **Self-awareness**: Know what you know and what you don't know
+- **Focus on strengths**: Deepen expertise within your circle rather than spreading thin
+- **Honest assessment**: Avoid the dangerous state of "not knowing what you don't know"
+- **Continuous learning**: Your circle can be expanded through learning
 
 ## Warning Signs
 
-- 做出决策时感到不安或缺乏信心
-- 无法解释决策背后的逻辑
-- 依赖他人的判断而非自己的分析
-- 对行业动态缺乏基本了解
+- Feeling anxious or lacking confidence when making decisions
+- Unable to explain the logic behind your decisions
+- Relying on others' judgment rather than your own analysis
+- Lacking basic understanding of industry trends
 
 ## Related Models
 
-- [概率思维](/skills/probabilistic-thinking/)：在不确定中做出决策
-- [安全边际](/skills/margin-of-safety/)：为判断错误预留空间
-- [复利](/skills/compounding/)：在能力圈内持续积累优势
+- [Probabilistic Thinking](/skills/probabilistic-thinking/): Making decisions amid uncertainty
+- [Margin of Safety](/skills/margin-of-safety/): Leaving room for judgment errors
+- [Compounding](/skills/compounding/): Continuously accumulating advantages within your circle

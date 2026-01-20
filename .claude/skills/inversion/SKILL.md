@@ -1,65 +1,65 @@
 ---
 name: Inversion
-description: 从相反方向思考问题，先找出要避免的错误，再反推出应采取的正确行动。适用于投资决策、项目规划、风险管理等场景。
+description: Thinking about problems from the opposite direction, first identifying errors to avoid, then deriving the correct course of action. Applicable to investment decisions, project planning, risk management, and other scenarios.
 ---
 
 # 反向思考 (Inversion)
 
 ## Overview
 
-反向思考是一种从结果倒推原因的思维方式。与其问"如何成功"，不如先问"怎样会失败"。这种思维方式源于卡尔·雅可比的名言"倒过来想，总是倒过来想"(Invert, always invert)，被查理·芒格奉为圭臬。
+Inversion is a thinking method that works backward from results to causes. Instead of asking "how to succeed," ask first "what would cause failure." This thinking approach comes from Carl Jacobi's famous quote "Invert, always invert," which Charlie Munger holds in high regard.
 
 ## When to Apply
 
-- 面临重要决策但常规思路陷入僵局时
-- 项目规划阶段需要识别潜在风险时
-- 投资决策中需要避免致命错误时
-- 解决问题时正向思路效果不佳时
-- 需要全面考虑失败场景时
+- When facing important decisions but conventional thinking is stuck
+- When identifying potential risks during project planning
+- When avoiding fatal mistakes in investment decisions
+- When forward-thinking approaches are ineffective for solving problems
+- When needing to comprehensively consider failure scenarios
 
 ## How to Use
 
-1. **明确目标**：确定你希望实现的结果
-2. **反向提问**：问自己"什么会破坏这个结果"或"怎样一定会失败"
-3. **列出清单**：列出所有可能导致失败的因素
-4. **反推对策**：针对每个失败因素，制定避免措施
-5. **验证行动**：确认这些措施能否有效避免失败
+1. **Clarify goals**: Determine the outcome you want to achieve
+2. **Ask inverse questions**: Ask yourself "what would destroy this result" or "what would surely cause failure"
+3. **Make a list**: List all factors that could lead to failure
+4. **Derive countermeasures**: For each failure factor, develop avoidance measures
+5. **Verify actions**: Confirm whether these measures can effectively prevent failure
 
 ## Examples
 
-### 示例1：投资决策
-- 正向思考：如何找到一只好股票？
-- 反向思考：什么会导致投资亏损？
-  - 过度借贷 → 设定杠杆上限
-  - 追涨杀跌 → 建立冷静期规则
-  - 盲目跟风 → 只投资自己理解的业务
-  - 集中持股 → 分散投资降低风险
+### Example 1: Investment Decisions
+- Forward thinking: How to find a good stock?
+- Inverse thinking: What would cause investment losses?
+  - Excessive borrowing → Set leverage limits
+  - Chasing highs and selling lows → Establish cooling-off period rules
+  - Blindly following the crowd → Only invest in businesses you understand
+  - Concentrated holdings → Diversify investments to reduce risk
 
-### 示例2：项目规划
-- 正向思考：如何让项目成功？
-- 反向思考：什么会导致项目失败？
-  - 需求蔓延 → 明确范围边界
-  - 沟通不畅 → 建立定期同步机制
-  - 技术债务 → 预留技术优化时间
-  - 资源不足 → 提前确认资源到位
+### Example 2: Project Planning
+- Forward thinking: How to make a project succeed?
+- Inverse thinking: What would cause project failure?
+  - Scope creep → Define scope boundaries
+  - Poor communication → Establish regular sync mechanisms
+  - Technical debt → Reserve time for technical optimization
+  - Insufficient resources → Confirm resources are in place in advance
 
-### 示例3：人生决策
-- 正向思考：如何过上幸福生活？
-- 反向思考：什么会毁掉生活？
-  - 健康透支 → 保持运动和作息规律
-  - 财务失控 → 避免过度负债
-  - 关系破裂 → 投入时间维护重要关系
-  - 技能过时 → 持续学习和更新知识
+### Example 3: Life Decisions
+- Forward thinking: How to live a happy life?
+- Inverse thinking: What would ruin life?
+  - Health depletion → Maintain exercise and regular sleep
+  - Financial失控 → Avoid excessive debt
+  - Relationship breakdowns → Invest time in maintaining important relationships
+  - Skills becoming outdated → Continuously learn and update knowledge
 
 ## Core Principles
 
-- **先排除错误**：避免致命错误比追求完美更重要
-- **逆向验证**：用反例测试你的假设
-- **清单思维**：系统化地列出失败因素
-- **逆向规划**：从终点倒推起点，制定路线图
+- **Eliminate errors first**: Avoiding fatal mistakes is more important than pursuing perfection
+- **Inverse verification**: Test your assumptions with counterexamples
+- **List thinking**: Systematically list failure factors
+- **Inverse planning**: Work backward from the endpoint to the starting point and develop a roadmap
 
 ## Related Models
 
-- [证伪原则](/skills/falsification/)：用反例检验假设
-- [二阶思维](/skills/second-order-thinking/)：考虑行动的深层后果
-- [安全边际](/skills/margin-of-safety/)：为错误预留缓冲空间
+- [Falsification](/skills/falsification/): Testing hypotheses with counterexamples
+- [Second-Order Thinking](/skills/second-order-thinking/): Considering deeper consequences of actions
+- [Margin of Safety](/skills/margin-of-safety/): Leaving buffer space for errors

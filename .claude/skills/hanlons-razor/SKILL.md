@@ -1,77 +1,77 @@
 ---
 name: Hanlon's Razor
-description: "不要用恶意来解释那些可以用愚蠢解释的行为"。提醒我们避免过度偏执，客观分析他人行为的原因，适用于职场沟通、人际关系、社会现象分析等场景。
+description: "Do not attribute to malice that which can be explained by stupidity." Reminds us to avoid excessive paranoia and objectively analyze the causes of others' behaviors. Applicable to workplace communication, interpersonal relationships, and social phenomenon analysis.
 ---
 
 # 韩隆剃刀 (Hanlon's Razor)
 
 ## Overview
 
-韩隆剃刀是一条通俗经验法则：不要用恶意来解释那些可以用愚蠢（无知、疏忽、判断错误）解释的行为。其准确来源不明，但与奥卡姆剃刀类似，是关于选择解释的简单原则。这一原则有助于避免陷入阴谋论式的思维。
+Hanlon's Razor is a common rule of thumb: do not attribute to malice that which can be explained by stupidity (ignorance, negligence, or misjudgment). Its exact origin is unclear, but like Occam's Razor, it is a simple principle about choosing explanations. This principle helps avoid falling into conspiracy-theory thinking.
 
 ## When to Apply
 
-- 职场中遇到他人看似不合理的决策时
-- 人际交往中感到被冒犯时
-- 分析社会事件时
-- 评估他人行为动机时
-- 处理冲突和误解时
+- When encountering seemingly unreasonable decisions from others at work
+- When feeling offended in interpersonal interactions
+- When analyzing social events
+- When evaluating others' behavioral motivations
+- When handling conflicts and misunderstandings
 
 ## How to Use
 
-1. **观察行为**：客观描述你观察到的行为
-2. **分析可能原因**：
-   - 恶意（有意的伤害）
-   - 愚蠢（无知、疏忽、判断错误）
-   - 其他（立场不同、信息不全）
-3. **优先假设愚蠢**：在证据不足时，先假设非恶意原因
-4. **寻求澄清**：必要时直接沟通确认动机
-5. **调整判断**：根据新信息修正你的理解
+1. **Observe behavior**: Objectively describe the behavior you observed
+2. **Analyze possible causes**:
+   - Malice (intentional harm)
+   - Stupidity (ignorance, negligence, misjudgment)
+   - Other (different perspectives, incomplete information)
+3. **Assume stupidity first**: When evidence is insufficient, first assume non-malicious causes
+4. **Seek clarification**: Communicate directly to confirm motivations when necessary
+5. **Adjust judgment**: Revise your understanding based on new information
 
 ## Examples
 
-### 示例1：职场决策
-- 场景：管理层出台了一个看似不利员工的新政策
-- 恶意解释：高层故意剥削员工
-- 韩隆剃刀解释：可能是决策失误或信息不全导致的考虑不周
-- 行动：建议沟通了解背景，而非立即对抗
+### Example 1: Workplace Decisions
+- Scenario: Management implements a new policy that seems unfavorable to employees
+- Malicious explanation: Senior management deliberately exploits employees
+- Hanlon's Razor explanation: It may be poor decision-making or incomplete information leading to oversight
+- Action: Recommend communicating to understand the background rather than immediate confrontation
 
-### 示例2：日常互动
-- 场景：开车时有人别你的车
-- 恶意解释：那个人故意的，针对你
-- 韩隆剃刀解释：可能对方没注意或技术不好
-- 行动：保持冷静，避免路怒
+### Example 2: Daily Interaction
+- Scenario: Someone cuts you off while driving
+- Malicious explanation: That person did it intentionally, targeting you
+- Hanlon's Razor explanation: The other person may not have been paying attention or is an inexperienced driver
+- Action: Stay calm, avoid road rage
 
-### 示例3：产品问题
-- 场景：你喜欢的APP更新后变得难用
-- 恶意解释：产品团队故意的，想逼你付费
-- 韩隆剃刀解释：产品经理可能做了错误的决策判断
-- 行动：理性反馈，而非阴谋论式抱怨
+### Example 3: Product Issues
+- Scenario: Your favorite app becomes hard to use after an update
+- Malicious explanation: The product team did it deliberately to force you to pay
+- Hanlon's Razor explanation: The product manager may have made poor judgment calls
+- Action: Provide rational feedback rather than conspiracy-theory complaints
 
 ## Core Principles
 
-- **保持开放**：不要急于认定他人恶意
-- **寻求理解**：尝试从对方角度看问题
-- **建设性沟通**：基于理解而非对抗
-- **避免极端**：恶意确实存在，但要证据而非猜测
+- **Stay open**: Don't rush to assume malice in others
+- **Seek understanding**: Try to see the problem from the other person's perspective
+- **Constructive communication**: Based on understanding rather than confrontation
+- **Avoid extremes**: Malice does exist, but require evidence rather than speculation
 
 ## Benefits
 
-- 减少不必要的冲突和敌意
-- 保持理性思考，避免情绪化
-- 有利于建设性问题解决
-- 维护团队信任和合作关系
+- Reduce unnecessary conflicts and hostility
+- Maintain rational thinking and avoid emotional reactions
+- Facilitate constructive problem-solving
+- Maintain team trust and cooperative relationships
 
 ## When to Question
 
-虽然韩隆剃刀很有用，但也要注意：
-- 当同一模式反复出现时
-- 当有明确证据显示恶意时
-- 当涉及重大利益时
-- 当对方明确表示恶意意图时
+While Hanlon's Razor is useful, also pay attention to:
+- When the same pattern repeats
+- When there is clear evidence of malice
+- When significant interests are involved
+- When the other party explicitly expresses malicious intent
 
 ## Related Models
 
-- [地图非领土](/skills/map-is-not-the-territory/)：理解行为需要多角度看问题
-- [二阶思维](/skills/second-order-thinking/)：考虑行为的多重影响
-- [概率思维](/skills/probabilistic-thinking/)：评估各种可能性的概率
+- [Map Is Not the Territory](/skills/map-is-not-the-territory/): Understanding behavior requires multiple perspectives
+- [Second-Order Thinking](/skills/second-order-thinking/): Considering multiple effects of behavior
+- [Probabilistic Thinking](/skills/probabilistic-thinking/): Evaluating the probability of various possibilities
