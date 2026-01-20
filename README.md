@@ -21,7 +21,9 @@ Mental models are frameworks for understanding how the world works. They help us
 
 Each mental model is implemented as a separate Skill. See the `.claude/skills/` directory for available models.
 
-### Available Skills
+### General Thinking Models
+
+These foundational thinking frameworks span multiple disciplines:
 
 | Skill | Description |
 |-------|-------------|
